@@ -4,10 +4,10 @@
 
 ## Hardware
 
-1x Raspberry pi zero
-1x Pi camera v2
-1x Huawei e3372 usb modem
-1x USB phone battery charger
+- 1x Raspberry pi zero
+- 1x Pi camera v2
+- 1x Huawei e3372 usb modem
+- 1x USB phone battery charger
 
 ## Setup
 
