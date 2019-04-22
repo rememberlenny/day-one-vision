@@ -9,15 +9,11 @@
 1x Huawei e3372 usb modem
 1x USB phone battery charger
 
----
-
 ## Setup
 
 1. Configure modem with SIM card
 2. Set up Raspberry pi with camera using Motion to run when active and stream endpoint
 3. Set up OpenCV machine for analyzing video for faces
-
----
 
 ## Active process
 
@@ -27,6 +23,7 @@
 4. Faces tagged with "session"
 5. If photo fits category, trigger alert
 
+---
 
 # Links
 
