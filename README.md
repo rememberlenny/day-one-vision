@@ -1,4 +1,4 @@
-![](https://github.com/rememberlenny/recognize-familiar-faces/blob/master/docs/img/header.jpg?raw=true)
+![](https://github.com/rememberlenny/recognize-familiar-faces/blob/master/docs/img/1ADC7F0B-1E0E-4EA8-92DB-7C2551478A5B.gif?raw=true)
 
 # Setup
 
