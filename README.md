@@ -9,6 +9,8 @@
 - 1x Huawei e3372 usb modem
 - 1x USB phone battery charger
 
+![](https://github.com/rememberlenny/privacy-computer-vision/blob/master/docs/img/cA4HrMb.gif?raw=true)
+
 ## Setup
 
 1. Configure modem with SIM card
