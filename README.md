@@ -2,6 +2,13 @@
 
 # Setup
 
+```
+$ workon <env_name> # my environment is named py3cv4
+$ pip install opencv-contrib-python
+$ pip install zmq
+$ pip install imutils
+```
+
 ## Hardware
 
 - 1x Raspberry pi zero
