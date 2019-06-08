@@ -40,6 +40,7 @@ $ pip install imutils
 - https://github.com/deepinsight/insightface
 - https://github.com/tadasbaltrusaitis/openface
 - https://github.com/davidsandberg/facenet
+- http://shuoyang1213.me/WIDERFACE/WiderFace_Results.html
 
 ## Inspiration
 - https://www.nytimes.com/2019/04/16/opinion/privacy-technology.html
